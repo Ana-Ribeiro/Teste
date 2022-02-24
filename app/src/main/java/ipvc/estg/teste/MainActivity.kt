@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         //novo comentário
 
         // comentário do branch
+        // comentário2 de branch
 
     }
 }
